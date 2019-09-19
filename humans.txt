@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Itziar Urbieta
+	itziarurbieta94@gmail.com
+	@ItUnderTheSea
 
 # THANKS
 
